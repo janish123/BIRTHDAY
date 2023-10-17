@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    align-content: center;
+    
+    background-image: url("background.jpg");
+      
+    background-size: cover;
+    display: flex;
+
+    height: 100vh;
+    overflow-x: hidden;  
+}
+
+.screen{width:100%;}
+.top{display:inline-flex}
+
+.logo {align-items: left;
+    align-items: top;
+  margin-top: 1px;
+  margin-left:1px;}
+
+
+
