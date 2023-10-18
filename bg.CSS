@@ -4,8 +4,9 @@ body {
 }
 
 .screen{width:100%;
-background-image: url('./background.jpg') no-repeat center center fixed;
-      }
+background-image:url('./background.jpg') no-repeat center center fixed;
+    background-size: cover;
+  background-position: center;   }
 .top{display:inline-flex}
 
 .logo {align-items: left;
