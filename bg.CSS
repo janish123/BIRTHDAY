@@ -3,7 +3,7 @@ body {
     padding: 0;
     align-content: center;
     
-    background-image: url("./background.jpg");
+    background-image: url=("./background.jpg");
       
     background-size: cover;
     display: flex;
