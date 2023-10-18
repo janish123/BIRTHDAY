@@ -1,18 +1,11 @@
 body {
-    margin: 0;
-    padding: 0;
-    align-content: center;
-    
-    background-image: url('./background.jpg') no-repeat center center fixed;
-      
-    background-size: cover;
-    display: flex;
-
-    height: 100vh;
+  
     overflow-x: hidden;  
 }
 
-.screen{width:100%;}
+.screen{width:100%;
+background-image: url('./background.jpg') no-repeat center center fixed;
+      }
 .top{display:inline-flex}
 
 .logo {align-items: left;
