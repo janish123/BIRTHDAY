@@ -20,7 +20,17 @@ body {
 
 .logo {align-items: left;
     align-items: top;
-margin-top:1px;
+margin-top:3px;
       width:100%}
+
+.balloon {
+
+align-items: left;
+    align-items: mid;
+    margin-left:3px;
+    width:70%;
+    
+    
+}
 
 
