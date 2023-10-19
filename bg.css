@@ -54,6 +54,7 @@ align-items: left;
      margin: 0;
     padding: 0;
      z-index: -1;
+     background: url('./stars.png') repeat center center fixed ;
     background-size: cover;
     display: flex;
 }
