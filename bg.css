@@ -25,7 +25,11 @@ body {
     align-items: left;
     align-items: top;
 margin-top:10px;
-      width:100%}
+      width:100%
+
+     margin-left:auto; 
+     margin-right:auto;
+}
 
 .balloon {
  
@@ -47,6 +51,8 @@ align-items: left;
     -webkit-box-shadow: 4px 4px 14px  #FFD700;
     box-shadow: 4px 4px 14px  #FFD700;
 
+     margin-left:auto; 
+     margin-right:auto;
  
     
 }
