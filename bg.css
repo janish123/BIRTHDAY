@@ -1,4 +1,5 @@
 body {
+     z-index: -2;
     margin: 0;
     padding: 0;
     align-content: center;
@@ -18,13 +19,15 @@ body {
     
 }
 
-.logo {align-items: left;
+.logo {
+     z-index: 2;
+    align-items: left;
     align-items: top;
 margin-top:10px;
       width:100%}
 
 .balloon {
-
+ z-index: 2;
 align-items: left;
     align-items: flex-end;
     margin-left:3px;
@@ -33,7 +36,7 @@ align-items: left;
 }
 
 .iframe{
-
+  z-index: 2;
     margin-bottom: 30px;
 
 -moz-border-radius: 12px;
