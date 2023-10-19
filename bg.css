@@ -42,9 +42,9 @@ align-items: left;
 
     margin-bottom: 30px;
 
--moz-border-radius: 12px;
--webkit-border-radius: 12px;
-    border-radius: 12px;
+-moz-border-radius: 12px #FFD700 ;
+-webkit-border-radius: 12px #FFD700;
+    border-radius: 12px #FFD700;
     -moz-box-shadow: 4px 4px 14px  #FFD700;
     -webkit-box-shadow: 4px 4px 14px  #FFD700;
     box-shadow: 4px 4px 14px  #FFD700;
