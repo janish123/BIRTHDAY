@@ -26,7 +26,7 @@ margin-top:10px;
 .balloon {
 
 align-items: left;
-    align-items: bottom;
+    align-items: flex-end;
     margin-left:3px;
 
     
