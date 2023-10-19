@@ -1,17 +1,3 @@
-:root{
-
-     .mobile-menu-open body {
-    overflow: hidden;
-          #mobile-header.toggled .main-nav>ul {
-    height: calc(100vh - 56px);
-    overflow: auto !important;
-    padding-bottom: 50px;
-}
-}
-}
-
-
-
 
 body {
      
